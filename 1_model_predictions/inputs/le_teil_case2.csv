@@ -1,0 +1,2 @@
+SSC_ID,ssc_wt,FAULT_ID,SCENARIO_ID,magnitude,u_star,mag_rate,prob_rupture,scenario_rate
+0,1,23,1,5.52,0.46,0.000166692,0.276190476,4.60E-05
