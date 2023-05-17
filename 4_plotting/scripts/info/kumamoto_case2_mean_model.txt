@@ -1,0 +1,5 @@
+Case Name, ID: Kumamoto / Sensitivity #2
+Displacement Metric: Aggregated Net
+Distance to Principal Rupture: 0 km
+SSC Type, Epistemic: Multi-path, Float=1.0 km / True
+FDM Type, Epistemic: Mean Model / False

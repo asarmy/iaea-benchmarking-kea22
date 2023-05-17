@@ -1,0 +1,5 @@
+Case Name, ID: Le Teil / Sensitivity #2
+Displacement Metric: Aggregated Net
+Distance to Principal Rupture: 0 km
+"full_fdm" tab: Mean & Fractile Results; there is no epistemic uncertainty in the SSC; includes epistemic uncertainty from FDM (i.e., 2000 model runs per end-node SSC branch)
+"mean_fdm" tab: Mean; no epistemic uncertainty in SSC nor FDM

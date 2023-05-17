@@ -1,0 +1,23 @@
+# Preface
+
+This document was prepared for the International Atomic Energy Agency's (IAEA)
+Probabilistic Fault Displacement Analysis (PFDHA) Benchmarking Study in support
+of a new Technical Document (TECDOC) tentatively titled *Benchmarking Current 
+Practices in Probabilistic Fault Displacement Hazard Assessment for Nuclear 
+Installations*. 
+
+The purpose of this document is to provide fault displacement hazard results 
+based on the Kuehn et al. (2022) fault displacement amplitude prediction model ([https://doi.org/10.34948/N3X59H](https://doi.org/10.34948/N3X59H)) for a set 
+of benchmarking scenarios. First, a high-level overview of the model is provided.
+Next, a short discussion on model implementation is given to help the user
+interpret the results. Lastly, the results of each scenario are provided.
+
+# Authors and Affiliations
+
+- Alexandra Sarmiento\textsuperscript{1}
+- Albert Kottke, Ph.D.\textsuperscript{2}
+- Nicolas Kuehn, Ph.D.\textsuperscript{1}
+
+\textsuperscript{1} University of California, Los Angeles
+\textsuperscript{2} Pacific Gas & Electric Company
+

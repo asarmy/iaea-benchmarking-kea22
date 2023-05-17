@@ -1,0 +1,127 @@
+# Model Implementation
+
+The KEA22 model is different from other FDMs in two key ways. First, the model
+was developed using Bayesian inference, which means the model coefficients are
+defined with probability distributions, rather than point estimates. Second, the 
+model predicts an asymmetric slip profile along the full normalized rupture 
+length, and both the median and standard deviation predictions vary along the 
+full (rather than folded) length. Each of these has an effect on how the model 
+is implemented.
+
+## Handling of Model Coefficients
+
+The model coefficients are defined as correlated probability distributions. This 
+is the key advantage of using Bayesian inference, because the full epistemic 
+uncertainty in the model is captured with these distributions. However, this
+means an analytical solution for the model is not available, and therefore the
+KEA22 model developers used Markov Chain Monte Carlo (MCMC) sampling to 
+generate 2,000 correlated coefficients from the posterior distributions. As a 
+result, there are two main ways to implement the KEA22 FDM:
+
+1. Calculate $\mu$ and $\sigma$ using the mean of each coefficient.
+2. Calculate $\mu$ and $\sigma$ for $N$ samples of the correlated coefficients 
+(recommended).
+
+We refer to (1) as the *mean model* and (2) as the *full model* herein. The
+model predictions were calculated for all 2,000 samples where the full model 
+is used herein. We recommend using the full model results; the mean model 
+results are provided for comparisons purposes only.
+
+## Handling of Asymmetric Slip Profiles
+
+While empirical slip profiles are commonly asymmetric, the skewness usually 
+cannot be predicted a priori. As a result, most FDMs were developed using 
+empirical slip profiles that were folded about the rupture midpoint and
+therefore predict symmetrical profiles where the peak median displacement 
+occurs at the midpoint. 
+
+The KEA22 FDM predicts an asymmetrical slip profile where the profile peak 
+occurs at $U_* \le 0.5$. Because both the median and standard deviation 
+predictions vary along the full rupture length $U_* ~\epsilon~ [0, 1]$, the 
+predicted displacement (i.e., $\mu$ and $\sigma$) at $U_*$ and $1 - U_*$ is 
+different, and therefore the hazard curves will be different. In most cases, the 
+hazard curves should be computed twice (for $U_*$ and $1 - U_*$) and weighted
+equally, as we have done herein.
+
+
+
+
+<!-- # Model Implementation -->
+
+<!-- The KEA22 model is different from other FDMs in three key ways. First, the model -->
+<!-- was developed using Bayesian inference, which means the model coefficients are -->
+<!-- defined with probability distributions, rather than point estimates. Second, two  -->
+<!-- between-event terms were used to capture event-specific effects; the magnitude  -->
+<!-- scaling event term is additive and easily handled, but the location scaling  -->
+<!-- event term needs to be integrated out. Third, the model predicts an asymmetric -->
+<!-- slip profile along the full normalized rupture length, and both the median and  -->
+<!-- standard deviation predictions vary along the full (rather than folded) length. -->
+<!-- Each of these has an effect on how the model is implemented. -->
+
+<!-- ## Handling of Model Coefficients -->
+
+<!-- The model coefficients defined as correlated probability distributions. This is  -->
+<!-- the key advantage of using Bayesian inference, because the full epistemic  -->
+<!-- uncertainty in the model is captured with these distributions. However, this -->
+<!-- means an analytical solution for the model is not available, and therefore  -->
+<!-- Markov Chain Monte Carlo (MCMC) sampling is used to generate 2,000 correlated -->
+<!-- coefficients from the posterior distributions. As a result, there are two main -->
+<!-- ways to implement the KEA22 FDM: -->
+
+<!-- 1. Calculate $\mu$ and $\sigma$ using the mean of each coefficient. -->
+<!-- 2. Calculate $\mu$ and $\sigma$ for $N$ samples of the correlated coefficients  -->
+<!-- (recommended). -->
+
+<!-- We refer to (1) as the *mean model* and (2) as the *full model* herein, and the -->
+<!-- model predictions were calculated for all 2,000 samples where the *full model*  -->
+<!-- is used. We recommend using the *full model* results and the *mean model*  -->
+<!-- results are provided for comparisons purposes only. -->
+
+<!-- ## Handling of Event Terms -->
+
+<!-- Two between-event terms were used in the development of the median prediction  -->
+<!-- model to capture event-specific effects. The event term $\delta_m$ is based on  -->
+<!-- the magnitude scaling component. It is additive and therefore easily integrated  -->
+<!-- out without affecting end-user implementation of the model. The $\delta_m$ term -->
+<!-- was applied to all styles of faulting. A second between-event term  -->
+<!-- $\delta_{\gamma}$ is based on the location scaling component of the model and is -->
+<!-- only used for normal and reverse faulting. The $\delta_{\gamma}$ term changes -->
+<!-- the shape of the slip profile and was used because the KEA22 model developers  -->
+<!-- observed significant differences in profile shapes (i.e., flat vs. elliptical)  -->
+<!-- for reverse and normal earthquakes (but not strike-slip earthquakes). -->
+
+<!-- The variability in $\delta_{\gamma}$ in the median predictions for dip-slip  -->
+<!-- events is calculated from look-up tables based on $U_*$ and is provided in 1% -->
+<!-- increments along $U_*$. The look-up tables provide an additive adjustment  -->
+<!-- $\Delta med_{\gamma}$ to the median prediction $\mu$ for reverse and normal -->
+<!-- events. Look-up tables are also provided for the standard deviation of the -->
+<!-- adjustment $\sigma_{\gamma}$ based on $U_*$, and this $\sigma_{\gamma}$ value -->
+<!-- should be included in the total standard deviation prediction $\sigma$. (Note  -->
+<!-- that all three aleatory model components ($\sigma_m$, $\sigma_u$, and  -->
+<!-- $\sigma_{\gamma}$) are normally distributed and assumed to be independent, so  -->
+<!-- the variances are additive such that  -->
+<!-- $\sigma = \sqrt{\sigma_m^2 + \sigma_u^2 + \sigma_{\gamma}^2}$.) -->
+
+<!-- ## Handling of Asymmetric Slip Profiles -->
+
+<!-- While empirical slip profiles are commonly asymmetric, the skewness usually  -->
+<!-- cannot be predicted a priori. As a result, most FDMs were developed using  -->
+<!-- empirical slip profiles that were folded about the rupture midpoint and -->
+<!-- therefore predict symmetrical profiles where the peak median displacement at the  -->
+<!-- midpoint.  -->
+
+<!-- The KEA22 FDM predicts an asymmetrical slip profile where the profile peak  -->
+<!-- occurs at $U_* \le 0.5$. Because  both the median and standard deviation  -->
+<!-- predictions vary along the full rupture length $U_* ~\epsilon~ [0, 1]$, the  -->
+<!-- predicted displacement (i.e., $\mu$ and $\sigma$) at $U_*$ and $1 - U_*$ is  -->
+<!-- different. In most cases, the hazard should be computed twice (for $U_*$ and  -->
+<!-- $1 - U_*$) with equal weighting. -->
+
+
+
+
+<!-- (e.g., Kuehn and Stafford, submitted, 
+[https://doi.org/10.31224/osf.io/uj749]
+(https://doi.org/10.31224/osf.io/uj749)) -->
+
+

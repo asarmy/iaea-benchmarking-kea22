@@ -1,0 +1,17 @@
+## Le Teil (Reverse) Case
+
+The only applicable sensitivity case (i.e., for on-fault (principal) faulting) 
+is Sensitivity 2. There is no epistemic uncertainty in the seismic source 
+characterization for Sensitivity 2.
+
+As an extra effort, the multi-path logic tree was also evaluated assuming 
+on-fault (principal) rupture. This allowed us to evaluate an example with large
+epistemic uncertainty in the seismic source characterization.
+
+```{r child = 'le_teil_sensitivity2.Rmd'}
+```
+
+\pagebreak
+```{r child = 'le_teil_extra.Rmd'}
+```
+

@@ -1,0 +1,5 @@
+Case Name, ID: Norcia / Sensitivity #1
+Displacement Metric: Aggregated Net
+Distance to Principal Rupture: 0 km
+SSC Type, Epistemic: Single-path trunc. norm. / False
+FDM Type, Epistemic: Mean Model / False

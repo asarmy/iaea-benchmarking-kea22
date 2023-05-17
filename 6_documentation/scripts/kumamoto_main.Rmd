@@ -1,0 +1,21 @@
+## Kumamoto (Strike-Slip) Case
+
+There are two applicable sensitivity cases (i.e., for on-fault (principal) 
+faulting): Sensitivity 2 and Sensitivity 3.
+
+Sensitivity 2 uses a full seismic source characterization logic tree with three 
+aleatory models for fault segmentation and one epistemic branch that considers 
+alternative scenarios for (1) a floating earthquake and (2) a small segment
+rupture.
+
+There is no epistemic uncertainty in the seismic source characterization for
+Sensitivity 3.
+
+```{r child = 'kumamoto_sensitivity2.Rmd'}
+```
+
+\pagebreak
+```{r child = 'kumamoto_sensitivity3.Rmd'}
+```
+
+

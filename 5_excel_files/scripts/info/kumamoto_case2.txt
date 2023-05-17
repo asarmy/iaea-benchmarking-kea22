@@ -1,0 +1,7 @@
+Case Name, ID: Kumamoto / Sensitivity #2
+Displacement Metric: Aggregated Net
+Distance to Principal Rupture: 0 km
+"full_fdm" tab: Mean & Fractile Results; includes epistemic uncertainty from SSC (i.e., F2 vs. Float); includes epistemic uncertainty from FDM (i.e., 2000 model runs per end-node SSC branch)
+"mean_fdm" tab: Mean & Fractile Results; includes epistemic uncertainty from SSC (i.e., F2 vs. Float); does not include epistemic uncertainty from FDM
+"sources_full_fdm" tab: Source Constributions; includes epistemic uncertainty from SSC (i.e., F2 vs. Float); includes epistemic uncertainty from FDM (i.e., 2000 model runs per end-node SSC branch)
+"sources_mean_fdm" tab: Source Constributions; includes epistemic uncertainty from SSC (i.e., F2 vs. Float); does not include epistemic uncertainty from FDM

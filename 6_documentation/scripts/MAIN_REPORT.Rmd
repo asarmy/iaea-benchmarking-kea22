@@ -1,0 +1,28 @@
+---
+title: "IAEA Benchmarking Results for the KEA22 Fault Displacement Model"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+urlcolor: blue
+header-includes:
+   - \usepackage{subfig}
+fig.keep: 'all'
+keep-tex: true
+---  
+
+```{r, include=FALSE}
+library(knitr)
+opts_chunk$set(echo = FALSE)
+```
+
+```{r child = 'intro.Rmd'}
+```
+
+```{r child = 'overview.Rmd'}
+```
+
+```{r child = 'implementation.Rmd'}
+```
+
+```{r child = 'results.Rmd'}
+```

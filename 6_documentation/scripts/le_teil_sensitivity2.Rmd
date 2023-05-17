@@ -1,0 +1,37 @@
+### Sensitivity 2
+
+The logic tree based on the information provided by the IAEA and as-implemented
+in the PFDA is shown on Figure \ref{fig:logic_LT2}.
+
+
+```{r, fig.cap = "Le Teil Sensitivity 2 logic tree. \\label{fig:logic_LT2}", out.width = '100%', fig.align = "center"}
+include_graphics("../figures/logic_trees/le_teil_case2.JPG")
+```
+
+
+The mean model results are shown on Figure \ref{fig:mean_model_LT2}.
+
+The full model results are shown on Figure \ref{fig:full_model_LT2}.
+
+A comparison of the mean model and full model results is shown on Figure 
+\ref{fig:compare_LT2}.
+
+
+   
+```{r, fig.cap = "Le Teil Sensitivity 2 FDM mean model results. \\label{fig:mean_model_LT2}", out.width = '80%', fig.subcap=c('For given site location $U_*$.', 'For complementary site location $1-U_*$.', 'With equal weighting on $U_*$ and $1-U_*$.'), fig.ncol = 1, fig.align = "left"}
+include_graphics(c("../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_left.png", "../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_right.png", "../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_folded.png"))
+```
+
+
+   
+```{r, fig.cap = "Le Teil Sensitivity 2 FDM full model results. \\label{fig:full_model_LT2}", out.width = '80%', fig.subcap=c('For given site location $U_*$.', 'For complementary site location $1-U_*$.', 'With equal weighting on $U_*$ and $1-U_*$.'), fig.ncol = 1, fig.align = "left"}
+include_graphics(c("../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_left.png", "../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_right.png", "../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_folded.png"))
+```
+
+
+   
+```{r, fig.cap = "Comparison of FDM mean and full model results for Le Teil Sensitivity 2. \\label{fig:compare_LT2}", out.width = '80%', fig.subcap=c('For given site location $U_*$.', 'For complementary site location $1-U_*$.', 'With equal weighting on $U_*$ and $1-U_*$.'), fig.ncol = 1, fig.align = "left"}
+include_graphics(c("../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_left.png", "../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_right.png", "../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_folded.png"))
+```
+
+

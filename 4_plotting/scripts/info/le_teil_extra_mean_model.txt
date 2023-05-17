@@ -1,0 +1,5 @@
+Case Name, ID: Le Teil / None
+Displacement Metric: Aggregated Net
+Distance to Principal Rupture: 0 km
+SSC Type, Epistemic: Multi-path delta function / True
+FDM Type, Epistemic: Mean Model / False

@@ -1,0 +1,5 @@
+Case Name, ID: Le Teil / Sensitivity #2
+Displacement Metric: Aggregated Net
+Distance to Principal Rupture: 0 km
+SSC Type, Epistemic: Single-path delta function / False
+FDM Type, Epistemic: Full Model / True

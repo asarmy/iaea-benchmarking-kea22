@@ -1,0 +1,70 @@
+# Benchmarking Results 
+
+The IAEA Benchmarking cases include all styles of faulting and both on-fault 
+(principal or primary ruptures) as well as distributed or secondary ruptures. 
+Assessing on-fault (principal) surface-rupture hazards for nuclear installations 
+is not generally not necessary because sites known to have such hazards are 
+considered unsuitable and excluded in the initial siting evaluations. However, 
+as new geologic information becomes available, periodic evaluation of 
+distributed or secondary surface-rupture hazards may be necessary for existing 
+facilities. It is our understanding that the new TECDOC aims to address this 
+aspect by evaluating models and methods for assessing distributed or secondary 
+surface-rupture hazard. It is also our understanding that the Benchmarking
+cases that consider on-fault (principal) surface-rupture hazard are only 
+included to provided additional examples or references for PFDHA calculations
+
+Three Benchmarking cases were provided by the IAEA based on recent surface-
+rupturing earthquakes that produced distributed or secondary ruptures:
+
+1. Reverse Faulting, Le Teil Case
+2. Normal Faulting, Norica Case
+3. Strike-Slip Faulting, Kumamoto Case
+
+In all cases, a base-case seismic source logic tree focused on distributed or 
+secondary ruptures was defined by the IAEA and a series of sensitivity tests 
+were also provided. In general, the sensitivity tests aimed to capture epistemic 
+uncertainty in the base-case seismic source characterization, such as through 
+alternative rupture scenarios, rates, or site-to-rupture distances.
+
+As described in **Model Overview**, the KEA22 FDM estimates the *aggregated 
+displacement* amplitude. The model does not provide distributed or secondary 
+displacements. Therefore, the evaluation presented here is not applicable to any 
+of the Benchmarking base-cases and is performed only for the sensitivity cases 
+with on-fault (principal) faulting. Additionally, it should be noted that the 
+results do not incorporate the conditional probability of principal surface 
+rupture unless explicitly given in the logic tree provided by the IAEA.
+
+The sections below present the results of the PFDHAs using the KEA22 FDM. The
+model was implemented as recommended in the KEA22 technical report ([https://doi.org/10.34948/N3X59H](https://doi.org/10.34948/N3X59H)), with key
+aspects of the implementation summarized above in **Model Implementation**. The
+results are presented in three ways for both the *mean model* and the *full 
+model* (which are defined in **Model Implementation**):
+
+1. For the normalized site location in the logic tree; denoted with $U_*$ on the
+plots (shown for completeness).
+
+2. For the complement to the normalized site location in the logic tree; denoted 
+$1 - U_*$ on the plots (shown for completeness).
+
+3. With equal weighting on both the site and its complementary location 
+(recommended hazard curve).
+
+As discussed in **Model Implementation**, the *mean model* is evaluated for
+completeness, but we recommend using the *full model* result because it captures
+the epistemic uncertainty of the model. Plots comparing the *mean model* and
+*full model* results are also provided. Fractiles are included where applicable 
+(i.e., where epistemic uncertainty in the seismic source characterization or the 
+FDM is included). 
+
+
+
+```{r child = 'le_teil_main.Rmd'}
+```
+
+\pagebreak
+```{r child = 'norcia.Rmd'}
+```
+
+\pagebreak
+```{r child = 'kumamoto_main.Rmd'}
+```

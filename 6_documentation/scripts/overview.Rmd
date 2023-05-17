@@ -1,0 +1,42 @@
+# Model Overview
+
+The Kuehn et al. (2022) ("KEA22") fault displacement amplitude model ("FDM")
+predicts a probability distribution for the total discrete net displacement 
+across simple and complex fault surface ruptures. We refer to this as 
+*aggregated displacement* and it includes the summed displacement across 
+(sub)parallel principal and distributed faults. The model *does not* provide 
+partitioning or deaggregation of the displacement onto principal or distributed 
+sources. The aggregated displacement is conditional on *principal rupture* 
+occurring; in other words, the aggregated displacement assumes the occurrence of 
+non-zero principal displacement. The model can be used with the PFDHA earthquake 
+approach methodology in Youngs et al. (2003) and can be combined with any 
+appropriate model for the conditional probability of principal surface rupture.
+
+The KEA22 FDM is an empirical model that predicts the natural log of aggregated 
+displacement $D$ assuming a normal distribution: $lnD\sim N(\mu, \sigma)$. 
+Earthquake moment magnitude $\textbf{M}$ and normalized location along the 
+rupture length $U_*$ (also known as $\frac{x}{L}$ or $\frac{l}{L}$ in other 
+models) are used as predictor variables. Between-event terms were modeled as 
+random effects and used in the development of the median prediction ($\mu$) 
+model. The total aleatory variability ($\sigma$) is separated into magnitude- 
+and location-dependent components, and the functional forms vary with style of 
+faulting. The functional form for the median prediction ($\mu$) is independent 
+of style. Model coefficients for both the median and standard deviation 
+predictions are based on style. The model was developed using Bayesian 
+regression, which means posterior distributions provide the final estimate of the 
+model coefficients. This is different than most other models, which use maximum 
+likelihood estimation to develop point estimates of the model coefficients, and 
+is discussed in more detail in **Model Implementation**. Finally, the model 
+predicts an asymmetrical slip profile, such that the profile peak occurs at 
+$U_* \le 0.5$, and therefore the full normalized rupture length (i.e., 
+$U_* ~\epsilon~ [0, 1]$) should be used. This is different that most other 
+models, which use a folded rupturelength (i.e., 
+$\frac{x}{L} ~\epsilon~ [0, 0.5]$), and it is important to notethat a folded 
+rupture length should *not* be used in the KEA22 FDM because both the median and 
+standard deviation predictions vary along the full rupture length.
+
+
+
+
+
+
