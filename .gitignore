@@ -7,6 +7,6 @@
 
 # Exclude misc Python, R, LaTeX files
 **/.Rhistory
-**/.log
+**/*.log
 __pycache__/
 *.pyc
