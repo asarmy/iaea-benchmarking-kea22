@@ -3,8 +3,7 @@
 2_hazard_calcs/results/*
 3_fractile_calcs/results/*
 4_plotting/figures
-6_documentation/scripts/.Rhistory
-MAIN_REPORT.log
+6_documentation/scripts/MAIN_REPORT.pdf
 
 # Exclude misc Python, R, LaTeX files
 **/.Rhistory
