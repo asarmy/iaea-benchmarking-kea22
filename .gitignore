@@ -1,0 +1,13 @@
+# Exclude script output results, figures, and reporting because file sizes can be large
+1_model_predictions/results/*
+2_hazard_calcs/results/*
+3_fractile_calcs/results/*
+4_plotting/figures
+6_documentation/scripts/.Rhistory
+MAIN_REPORT.log
+
+# Exclude misc Python, R, LaTeX files
+**/.Rhistory
+**/.log
+__pycache__/
+*.pyc
