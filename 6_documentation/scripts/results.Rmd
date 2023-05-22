@@ -13,12 +13,12 @@ surface-rupture hazard. It is also our understanding that the Benchmarking
 cases that consider on-fault (principal) surface-rupture hazard are only 
 included to provided additional examples or references for PFDHA calculations
 
-Three Benchmarking cases were provided by the IAEA based on recent surface-
-rupturing earthquakes that produced distributed or secondary ruptures:
+Three Benchmarking cases were provided by the IAEA based on recent 
+surface-rupturing earthquakes that produced distributed or secondary ruptures:
 
-1. Reverse Faulting, Le Teil Case
-2. Normal Faulting, Norica Case
-3. Strike-Slip Faulting, Kumamoto Case
+1. Reverse faulting, Le Teil case
+2. Normal faulting, Norica case
+3. Strike-slip faulting, Kumamoto case
 
 In all cases, a base-case seismic source logic tree focused on distributed or 
 secondary ruptures was defined by the IAEA and a series of sensitivity tests 

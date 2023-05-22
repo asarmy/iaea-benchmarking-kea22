@@ -1,4 +1,4 @@
-### Sensitivity 2
+### Sensitivity 3
 
 The logic tree based on the information provided by the IAEA and as-implemented
 in the PFDA is shown on Figure \ref{fig:logic_KM3}.

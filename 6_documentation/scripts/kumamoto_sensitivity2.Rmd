@@ -35,7 +35,7 @@ the epistemic branch (i.e., Float vs. F2) are shown; however, only the combined
 (weighted) branch is included in the total hazard curve. As observed on this
 figure, the net activity rates for both epistemic branches (i.e., Float vs. F2) 
 are similar because most of the 20-km-long floating ruptures occur on sections 
-of the fault that do not pass through the site.
+of the fault that do not pass through the site (Table \ref{tab:table}).
 
 The full model results are shown on Figure \ref{fig:full_model_KM2}.
 

@@ -30,8 +30,8 @@ is discussed in more detail in **Model Implementation**. Finally, the model
 predicts an asymmetrical slip profile, such that the profile peak occurs at 
 $U_* \le 0.5$, and therefore the full normalized rupture length (i.e., 
 $U_* ~\epsilon~ [0, 1]$) should be used. This is different that most other 
-models, which use a folded rupturelength (i.e., 
-$\frac{x}{L} ~\epsilon~ [0, 0.5]$), and it is important to notethat a folded 
+models, which use a folded rupture length (i.e., 
+$\frac{x}{L} ~\epsilon~ [0, 0.5]$), and it is important to note that a folded 
 rupture length should *not* be used in the KEA22 FDM because both the median and 
 standard deviation predictions vary along the full rupture length.
 

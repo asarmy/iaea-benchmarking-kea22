@@ -2,7 +2,7 @@
 
 The logic tree based on the multi-path base case was instead evaluated for 
 on-fault (principal) rupture (i.e., $r=0~km$ instead of $r=0.6~km$). The 
-as-implemented in the PFDA is shown on Figure \ref{fig:logic_LTX}.
+logic tree as-implemented in the PFDA is shown on Figure \ref{fig:logic_LTX}.
 
 
 

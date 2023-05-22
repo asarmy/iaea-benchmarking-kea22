@@ -12,6 +12,9 @@ of benchmarking scenarios. First, a high-level overview of the model is provided
 Next, a short discussion on model implementation is given to help the user
 interpret the results. Lastly, the results of each scenario are provided.
 
+The input parameters, calculations, results, and documentations are available 
+on Github at [https://github.com/asarmy/iaea-benchmarking-kea22](https://github.com/asarmy/iaea-benchmarking-kea22).
+
 # Authors and Affiliations
 
 - Alexandra Sarmiento\textsuperscript{1}
