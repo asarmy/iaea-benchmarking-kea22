@@ -57,14 +57,14 @@ the epistemic uncertainty of the model. Plots comparing the *mean model* and
 FDM is included). 
 
 
-
+\newpage
 ```{r child = 'le_teil_main.Rmd'}
 ```
 
-\pagebreak
+\newpage
 ```{r child = 'norcia.Rmd'}
 ```
 
-\pagebreak
+\newpage
 ```{r child = 'kumamoto_main.Rmd'}
 ```

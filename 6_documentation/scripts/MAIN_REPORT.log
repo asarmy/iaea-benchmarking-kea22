@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  22 MAY 2023 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  31 MAY 2023 01:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -647,191 +647,94 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
 
-{C:/Users/starb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-<../figures/logic_trees/le_teil_case2.jpg, id=46, 1041.1397pt x 277.035pt>
+{C:/Users/starb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3]
+<../figures/logic_trees/le_teil_case2.jpg, id=59, 1041.1397pt x 277.035pt>
 File: ../figures/logic_trees/le_teil_case2.jpg Graphic file (type jpg)
 <use ../figures/logic_trees/le_teil_case2.jpg>
 Package pdftex.def Info: ../figures/logic_trees/le_teil_case2.jpg  used on inpu
-t line 325.
+t line 334.
 (pdftex.def)             Requested size: 469.74768pt x 124.99431pt.
 <../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_left.pn
-g, id=50, 387.1263pt x 192.72pt>
+g, id=60, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_le
 ft.png Graphic file (type png)
 <use ../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_lef
 t.png>
 Package pdftex.def Info: ../../4_plotting/figures/le_teil_case2/mean_model/epis
-temic_haz_curves_left.png  used on input line 341.
+temic_haz_curves_left.png  used on input line 343.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_right.p
-ng, id=52, 387.1263pt x 192.72pt>
+ng, id=62, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_ri
 ght.png Graphic file (type png)
 <use ../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_rig
 ht.png>
 Package pdftex.def Info: ../../4_plotting/figures/le_teil_case2/mean_model/epis
-temic_haz_curves_right.png  used on input line 341.
+temic_haz_curves_right.png  used on input line 343.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_folded.
-png, id=53, 387.1263pt x 192.72pt>
+png, id=63, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_fo
 lded.png Graphic file (type png)
 <use ../../4_plotting/figures/le_teil_case2/mean_model/epistemic_haz_curves_fol
 ded.png>
 Package pdftex.def Info: ../../4_plotting/figures/le_teil_case2/mean_model/epis
-temic_haz_curves_folded.png  used on input line 341.
+temic_haz_curves_folded.png  used on input line 343.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_left.pn
-g, id=54, 387.1263pt x 192.72pt>
+g, id=64, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_le
 ft.png Graphic file (type png)
 <use ../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_lef
 t.png>
 Package pdftex.def Info: ../../4_plotting/figures/le_teil_case2/full_model/epis
-temic_haz_curves_left.png  used on input line 348.
+temic_haz_curves_left.png  used on input line 350.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_right.p
-ng, id=55, 387.1263pt x 192.72pt>
+ng, id=65, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_ri
 ght.png Graphic file (type png)
 <use ../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_rig
 ht.png>
 Package pdftex.def Info: ../../4_plotting/figures/le_teil_case2/full_model/epis
-temic_haz_curves_right.png  used on input line 348.
+temic_haz_curves_right.png  used on input line 350.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_folded.
-png, id=56, 387.1263pt x 192.72pt>
+png, id=66, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_fo
 lded.png Graphic file (type png)
 <use ../../4_plotting/figures/le_teil_case2/full_model/epistemic_haz_curves_fol
 ded.png>
 Package pdftex.def Info: ../../4_plotting/figures/le_teil_case2/full_model/epis
-temic_haz_curves_folded.png  used on input line 348.
+temic_haz_curves_folded.png  used on input line 350.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_left.
-png, id=57, 387.1263pt x 192.72pt>
+png, id=67, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_
 left.png Graphic file (type png)
 <use ../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_l
 eft.png>
 Package pdftex.def Info: ../../4_plotting/figures/le_teil_case2/epistemic_haz_c
-urves_compare_FDMs_left.png  used on input line 355.
+urves_compare_FDMs_left.png  used on input line 357.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_right
-.png, id=58, 387.1263pt x 192.72pt>
+.png, id=68, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_
 right.png Graphic file (type png)
 <use ../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_r
 ight.png>
 Package pdftex.def Info: ../../4_plotting/figures/le_teil_case2/epistemic_haz_c
-urves_compare_FDMs_right.png  used on input line 355.
+urves_compare_FDMs_right.png  used on input line 357.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_folde
-d.png, id=59, 387.1263pt x 192.72pt>
+d.png, id=69, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_
 folded.png Graphic file (type png)
 <use ../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FDMs_f
 olded.png>
 Package pdftex.def Info: ../../4_plotting/figures/le_teil_case2/epistemic_haz_c
-urves_compare_FDMs_folded.png  used on input line 355.
+urves_compare_FDMs_folded.png  used on input line 357.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
-[3]
-<../figures/logic_trees/le_teil_extra.jpg, id=79, 1037.37563pt x 508.14844pt>
-File: ../figures/logic_trees/le_teil_extra.jpg Graphic file (type jpg)
-<use ../figures/logic_trees/le_teil_extra.jpg>
-Package pdftex.def Info: ../figures/logic_trees/le_teil_extra.jpg  used on inpu
-t line 372.
-(pdftex.def)             Requested size: 469.75893pt x 230.10687pt.
-<../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_left.pn
-g, id=83, 382.0674pt x 192.72pt>
-File: ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_le
-ft.png Graphic file (type png)
-<use ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_lef
-t.png>
-Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/mean_model/epis
-temic_haz_curves_left.png  used on input line 388.
-(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
-<../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_right.p
-ng, id=84, 382.0674pt x 192.72pt>
-File: ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_ri
-ght.png Graphic file (type png)
-<use ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_rig
-ht.png>
-Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/mean_model/epis
-temic_haz_curves_right.png  used on input line 388.
-(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
-<../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_folded.
-png, id=85, 382.0674pt x 192.72pt>
-File: ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_fo
-lded.png Graphic file (type png)
-<use ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_fol
-ded.png>
-Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/mean_model/epis
-temic_haz_curves_folded.png  used on input line 388.
-(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
-
-LaTeX Warning: Float too large for page by 2.75365pt on input line 391.
-
-<../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_left.pn
-g, id=86, 382.0674pt x 192.72pt>
-File: ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_le
-ft.png Graphic file (type png)
-<use ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_lef
-t.png>
-Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/full_model/epis
-temic_haz_curves_left.png  used on input line 395.
-(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
-<../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_right.p
-ng, id=87, 382.0674pt x 192.72pt>
-File: ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_ri
-ght.png Graphic file (type png)
-<use ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_rig
-ht.png>
-Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/full_model/epis
-temic_haz_curves_right.png  used on input line 395.
-(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
-<../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_folded.
-png, id=88, 382.0674pt x 192.72pt>
-File: ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_fo
-lded.png Graphic file (type png)
-<use ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_fol
-ded.png>
-Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/full_model/epis
-temic_haz_curves_folded.png  used on input line 395.
-(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
-
-LaTeX Warning: Float too large for page by 2.75365pt on input line 398.
-
-<../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_left.
-png, id=89, 382.0674pt x 192.72pt>
-File: ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_
-left.png Graphic file (type png)
-<use ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_l
-eft.png>
-Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/epistemic_haz_c
-urves_compare_FDMs_left.png  used on input line 402.
-(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
-<../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_right
-.png, id=90, 382.0674pt x 192.72pt>
-File: ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_
-right.png Graphic file (type png)
-<use ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_r
-ight.png>
-Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/epistemic_haz_c
-urves_compare_FDMs_right.png  used on input line 402.
-(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
-<../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_folde
-d.png, id=91, 382.0674pt x 192.72pt>
-File: ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_
-folded.png Graphic file (type png)
-<use ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_f
-olded.png>
-Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/epistemic_haz_c
-urves_compare_FDMs_folded.png  used on input line 402.
-(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
-
-LaTeX Warning: Float too large for page by 2.75365pt on input line 405.
-
 [4 <../figures/logic_trees/le_teil_case2.jpg>] [5 <../../4_plotting/figures/le_
 teil_case2/mean_model/epistemic_haz_curves_left.png> <../../4_plotting/figures/
 le_teil_case2/mean_model/epistemic_haz_curves_right.png> <../../4_plotting/figu
@@ -843,101 +746,101 @@ lotting/figures/le_teil_case2/full_model/epistemic_haz_curves_right.png> <../..
 ft.png> <../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_compare_FD
 Ms_right.png> <../../4_plotting/figures/le_teil_case2/epistemic_haz_curves_comp
 are_FDMs_folded.png>]
-<../figures/logic_trees/norcia_case1.jpg, id=139, 1051.67906pt x 283.81032pt>
-File: ../figures/logic_trees/norcia_case1.jpg Graphic file (type jpg)
-<use ../figures/logic_trees/norcia_case1.jpg>
-Package pdftex.def Info: ../figures/logic_trees/norcia_case1.jpg  used on input
- line 421.
-(pdftex.def)             Requested size: 469.7529pt x 126.76938pt.
-<../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_left.png
-, id=143, 383.5128pt x 192.72pt>
-File: ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_lef
-t.png Graphic file (type png)
-<use ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_left
-.png>
-Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/mean_model/epist
-emic_haz_curves_left.png  used on input line 437.
-(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
-<../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_right.pn
-g, id=144, 383.5128pt x 192.72pt>
-File: ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_rig
-ht.png Graphic file (type png)
-<use ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_righ
+<../figures/logic_trees/le_teil_extra.jpg, id=122, 1037.37563pt x 508.14844pt>
+File: ../figures/logic_trees/le_teil_extra.jpg Graphic file (type jpg)
+<use ../figures/logic_trees/le_teil_extra.jpg>
+Package pdftex.def Info: ../figures/logic_trees/le_teil_extra.jpg  used on inpu
+t line 381.
+(pdftex.def)             Requested size: 469.75893pt x 230.10687pt.
+<../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_left.pn
+g, id=123, 382.0674pt x 192.72pt>
+File: ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_le
+ft.png Graphic file (type png)
+<use ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_lef
 t.png>
-Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/mean_model/epist
-emic_haz_curves_right.png  used on input line 437.
-(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
-<../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_folded.p
-ng, id=145, 383.5128pt x 192.72pt>
-File: ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_fol
-ded.png Graphic file (type png)
-<use ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_fold
-ed.png>
-Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/mean_model/epist
-emic_haz_curves_folded.png  used on input line 437.
-(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/mean_model/epis
+temic_haz_curves_left.png  used on input line 390.
+(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
+<../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_right.p
+ng, id=124, 382.0674pt x 192.72pt>
+File: ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_ri
+ght.png Graphic file (type png)
+<use ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_rig
+ht.png>
+Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/mean_model/epis
+temic_haz_curves_right.png  used on input line 390.
+(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
+<../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_folded.
+png, id=125, 382.0674pt x 192.72pt>
+File: ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_fo
+lded.png Graphic file (type png)
+<use ../../4_plotting/figures/le_teil_extra/mean_model/epistemic_haz_curves_fol
+ded.png>
+Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/mean_model/epis
+temic_haz_curves_folded.png  used on input line 390.
+(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
 
-LaTeX Warning: Float too large for page by 0.62752pt on input line 440.
+LaTeX Warning: Float too large for page by 2.75365pt on input line 393.
 
-<../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_left.png
-, id=146, 383.5128pt x 192.72pt>
-File: ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_lef
-t.png Graphic file (type png)
-<use ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_left
-.png>
-Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/full_model/epist
-emic_haz_curves_left.png  used on input line 444.
-(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
-<../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_right.pn
-g, id=147, 383.5128pt x 192.72pt>
-File: ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_rig
-ht.png Graphic file (type png)
-<use ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_righ
+<../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_left.pn
+g, id=126, 382.0674pt x 192.72pt>
+File: ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_le
+ft.png Graphic file (type png)
+<use ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_lef
 t.png>
-Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/full_model/epist
-emic_haz_curves_right.png  used on input line 444.
-(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
-<../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_folded.p
-ng, id=148, 383.5128pt x 192.72pt>
-File: ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_fol
-ded.png Graphic file (type png)
-<use ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_fold
-ed.png>
-Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/full_model/epist
-emic_haz_curves_folded.png  used on input line 444.
-(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/full_model/epis
+temic_haz_curves_left.png  used on input line 397.
+(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
+<../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_right.p
+ng, id=127, 382.0674pt x 192.72pt>
+File: ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_ri
+ght.png Graphic file (type png)
+<use ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_rig
+ht.png>
+Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/full_model/epis
+temic_haz_curves_right.png  used on input line 397.
+(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
+<../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_folded.
+png, id=128, 382.0674pt x 192.72pt>
+File: ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_fo
+lded.png Graphic file (type png)
+<use ../../4_plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_fol
+ded.png>
+Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/full_model/epis
+temic_haz_curves_folded.png  used on input line 397.
+(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
 
-LaTeX Warning: Float too large for page by 0.62752pt on input line 447.
+LaTeX Warning: Float too large for page by 2.75365pt on input line 400.
 
-<../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_left.p
-ng, id=149, 383.5128pt x 192.72pt>
-File: ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_l
-eft.png Graphic file (type png)
-<use ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_le
-ft.png>
-Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/epistemic_haz_cu
-rves_compare_FDMs_left.png  used on input line 451.
-(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
-<../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_right.
-png, id=150, 383.5128pt x 192.72pt>
-File: ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_r
-ight.png Graphic file (type png)
-<use ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_ri
-ght.png>
-Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/epistemic_haz_cu
-rves_compare_FDMs_right.png  used on input line 451.
-(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
-<../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_folded
-.png, id=151, 383.5128pt x 192.72pt>
-File: ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_f
-olded.png Graphic file (type png)
-<use ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_fo
-lded.png>
-Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/epistemic_haz_cu
-rves_compare_FDMs_folded.png  used on input line 451.
-(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+<../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_left.
+png, id=129, 382.0674pt x 192.72pt>
+File: ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_
+left.png Graphic file (type png)
+<use ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_l
+eft.png>
+Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/epistemic_haz_c
+urves_compare_FDMs_left.png  used on input line 404.
+(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
+<../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_right
+.png, id=130, 382.0674pt x 192.72pt>
+File: ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_
+right.png Graphic file (type png)
+<use ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_r
+ight.png>
+Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/epistemic_haz_c
+urves_compare_FDMs_right.png  used on input line 404.
+(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
+<../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_folde
+d.png, id=131, 382.0674pt x 192.72pt>
+File: ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_
+folded.png Graphic file (type png)
+<use ../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_FDMs_f
+olded.png>
+Package pdftex.def Info: ../../4_plotting/figures/le_teil_extra/epistemic_haz_c
+urves_compare_FDMs_folded.png  used on input line 404.
+(pdftex.def)             Requested size: 375.80516pt x 189.56123pt.
 
-LaTeX Warning: Float too large for page by 0.62752pt on input line 454.
+LaTeX Warning: Float too large for page by 2.75365pt on input line 407.
 
 [8 <../figures/logic_trees/le_teil_extra.jpg>] [9 <../../4_plotting/figures/le_
 teil_extra/mean_model/epistemic_haz_curves_left.png> <../../4_plotting/figures/
@@ -950,20 +853,102 @@ plotting/figures/le_teil_extra/full_model/epistemic_haz_curves_right.png> <../.
 eft.png> <../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_compare_F
 DMs_right.png> <../../4_plotting/figures/le_teil_extra/epistemic_haz_curves_com
 pare_FDMs_folded.png>]
-<../figures/logic_trees/kumamoto_case2.jpg, id=196, 1066.7353pt x 481.8pt>
-File: ../figures/logic_trees/kumamoto_case2.jpg Graphic file (type jpg)
-<use ../figures/logic_trees/kumamoto_case2.jpg>
-Package pdftex.def Info: ../figures/logic_trees/kumamoto_case2.jpg  used on inp
-ut line 497.
-(pdftex.def)             Requested size: 469.75563pt x 212.16908pt.
-<../figures/kumamoto2/kumamoto_floating_schematic.png, id=197, 539.01375pt x 55
-1.05875pt>
-File: ../figures/kumamoto2/kumamoto_floating_schematic.png Graphic file (type p
-ng)
-<use ../figures/kumamoto2/kumamoto_floating_schematic.png>
-Package pdftex.def Info: ../figures/kumamoto2/kumamoto_floating_schematic.png  
-used on input line 506.
-(pdftex.def)             Requested size: 234.88031pt x 240.12903pt.
+<../figures/logic_trees/norcia_case1.jpg, id=176, 1051.67906pt x 283.81032pt>
+File: ../figures/logic_trees/norcia_case1.jpg Graphic file (type jpg)
+<use ../figures/logic_trees/norcia_case1.jpg>
+Package pdftex.def Info: ../figures/logic_trees/norcia_case1.jpg  used on input
+ line 430.
+(pdftex.def)             Requested size: 469.7529pt x 126.76938pt.
+<../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_left.png
+, id=177, 383.5128pt x 192.72pt>
+File: ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_lef
+t.png Graphic file (type png)
+<use ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_left
+.png>
+Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/mean_model/epist
+emic_haz_curves_left.png  used on input line 439.
+(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+<../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_right.pn
+g, id=178, 383.5128pt x 192.72pt>
+File: ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_rig
+ht.png Graphic file (type png)
+<use ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_righ
+t.png>
+Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/mean_model/epist
+emic_haz_curves_right.png  used on input line 439.
+(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+<../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_folded.p
+ng, id=179, 383.5128pt x 192.72pt>
+File: ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_fol
+ded.png Graphic file (type png)
+<use ../../4_plotting/figures/norcia_case1/mean_model/epistemic_haz_curves_fold
+ed.png>
+Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/mean_model/epist
+emic_haz_curves_folded.png  used on input line 439.
+(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+
+LaTeX Warning: Float too large for page by 0.62752pt on input line 442.
+
+<../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_left.png
+, id=180, 383.5128pt x 192.72pt>
+File: ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_lef
+t.png Graphic file (type png)
+<use ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_left
+.png>
+Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/full_model/epist
+emic_haz_curves_left.png  used on input line 446.
+(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+<../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_right.pn
+g, id=181, 383.5128pt x 192.72pt>
+File: ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_rig
+ht.png Graphic file (type png)
+<use ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_righ
+t.png>
+Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/full_model/epist
+emic_haz_curves_right.png  used on input line 446.
+(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+<../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_folded.p
+ng, id=182, 383.5128pt x 192.72pt>
+File: ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_fol
+ded.png Graphic file (type png)
+<use ../../4_plotting/figures/norcia_case1/full_model/epistemic_haz_curves_fold
+ed.png>
+Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/full_model/epist
+emic_haz_curves_folded.png  used on input line 446.
+(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+
+LaTeX Warning: Float too large for page by 0.62752pt on input line 449.
+
+<../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_left.p
+ng, id=183, 383.5128pt x 192.72pt>
+File: ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_l
+eft.png Graphic file (type png)
+<use ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_le
+ft.png>
+Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/epistemic_haz_cu
+rves_compare_FDMs_left.png  used on input line 453.
+(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+<../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_right.
+png, id=184, 383.5128pt x 192.72pt>
+File: ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_r
+ight.png Graphic file (type png)
+<use ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_ri
+ght.png>
+Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/epistemic_haz_cu
+rves_compare_FDMs_right.png  used on input line 453.
+(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+<../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_folded
+.png, id=185, 383.5128pt x 192.72pt>
+File: ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_f
+olded.png Graphic file (type png)
+<use ../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_fo
+lded.png>
+Package pdftex.def Info: ../../4_plotting/figures/norcia_case1/epistemic_haz_cu
+rves_compare_FDMs_folded.png  used on input line 453.
+(pdftex.def)             Requested size: 375.81656pt x 188.85252pt.
+
+LaTeX Warning: Float too large for page by 0.62752pt on input line 456.
+
 [12 <../figures/logic_trees/norcia_case1.jpg>] [13 <../../4_plotting/figures/no
 rcia_case1/mean_model/epistemic_haz_curves_left.png> <../../4_plotting/figures/
 norcia_case1/mean_model/epistemic_haz_curves_right.png> <../../4_plotting/figur
@@ -974,282 +959,297 @@ plotting/figures/norcia_case1/full_model/epistemic_haz_curves_folded.png>] [15
 <../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_left.p
 ng> <../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FDMs_ri
 ght.png> <../../4_plotting/figures/norcia_case1/epistemic_haz_curves_compare_FD
-Ms_folded.png>] [16 <../figures/logic_trees/kumamoto_case2.jpg> <../figures/kum
-amoto2/kumamoto_floating_schematic.png>] [17]
+Ms_folded.png>] [16]
+<../figures/logic_trees/kumamoto_case2.jpg, id=255, 1066.7353pt x 481.8pt>
+File: ../figures/logic_trees/kumamoto_case2.jpg Graphic file (type jpg)
+<use ../figures/logic_trees/kumamoto_case2.jpg>
+Package pdftex.def Info: ../figures/logic_trees/kumamoto_case2.jpg  used on inp
+ut line 519.
+(pdftex.def)             Requested size: 469.75563pt x 212.16908pt.
+<../figures/kumamoto2/kumamoto_floating_schematic.png, id=256, 539.01375pt x 55
+1.05875pt>
+File: ../figures/kumamoto2/kumamoto_floating_schematic.png Graphic file (type p
+ng)
+<use ../figures/kumamoto2/kumamoto_floating_schematic.png>
+Package pdftex.def Info: ../figures/kumamoto2/kumamoto_floating_schematic.png  
+used on input line 528.
+(pdftex.def)             Requested size: 234.88031pt x 240.12903pt.
+[17 <../figures/logic_trees/kumamoto_case2.jpg>] [18 <../figures/kumamoto2/kuma
+moto_floating_schematic.png>]
 <../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curves_left.p
-ng, id=262, 383.031pt x 192.72pt>
+ng, id=266, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curves_l
 eft.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curves_le
 ft.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/mean_model/epi
-stemic_haz_curves_left.png  used on input line 637.
+stemic_haz_curves_left.png  used on input line 642.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 <../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curves_right.
-png, id=263, 383.031pt x 192.72pt>
+png, id=267, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curves_r
 ight.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curves_ri
 ght.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/mean_model/epi
-stemic_haz_curves_right.png  used on input line 637.
+stemic_haz_curves_right.png  used on input line 642.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 <../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curves_folded
-.png, id=264, 383.031pt x 192.72pt>
+.png, id=268, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curves_f
 olded.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curves_fo
 lded.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/mean_model/epi
-stemic_haz_curves_folded.png  used on input line 637.
+stemic_haz_curves_folded.png  used on input line 642.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 
-LaTeX Warning: Float too large for page by 1.35976pt on input line 640.
+LaTeX Warning: Float too large for page by 1.35976pt on input line 645.
 
 <../../4_plotting/figures/kumamoto_case2/mean_model/source_contributions_left.p
-ng, id=265, 383.031pt x 192.72pt>
+ng, id=269, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/mean_model/source_contributions_l
 eft.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/mean_model/source_contributions_le
 ft.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/mean_model/sou
-rce_contributions_left.png  used on input line 644.
+rce_contributions_left.png  used on input line 649.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 <../../4_plotting/figures/kumamoto_case2/mean_model/source_contributions_right.
-png, id=266, 383.031pt x 192.72pt>
+png, id=270, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/mean_model/source_contributions_r
 ight.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/mean_model/source_contributions_ri
 ght.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/mean_model/sou
-rce_contributions_right.png  used on input line 644.
+rce_contributions_right.png  used on input line 649.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 <../../4_plotting/figures/kumamoto_case2/mean_model/source_contributions_folded
-.png, id=267, 383.031pt x 192.72pt>
+.png, id=271, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/mean_model/source_contributions_f
 olded.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/mean_model/source_contributions_fo
 lded.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/mean_model/sou
-rce_contributions_folded.png  used on input line 644.
+rce_contributions_folded.png  used on input line 649.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 
-LaTeX Warning: Float too large for page by 1.35976pt on input line 647.
+LaTeX Warning: Float too large for page by 1.35976pt on input line 652.
 
 <../../4_plotting/figures/kumamoto_case2/full_model/epistemic_haz_curves_left.p
-ng, id=268, 383.031pt x 192.72pt>
+ng, id=272, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/full_model/epistemic_haz_curves_l
 eft.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/full_model/epistemic_haz_curves_le
 ft.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/full_model/epi
-stemic_haz_curves_left.png  used on input line 651.
+stemic_haz_curves_left.png  used on input line 656.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 <../../4_plotting/figures/kumamoto_case2/full_model/epistemic_haz_curves_right.
-png, id=269, 383.031pt x 192.72pt>
+png, id=273, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/full_model/epistemic_haz_curves_r
 ight.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/full_model/epistemic_haz_curves_ri
 ght.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/full_model/epi
-stemic_haz_curves_right.png  used on input line 651.
+stemic_haz_curves_right.png  used on input line 656.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 <../../4_plotting/figures/kumamoto_case2/full_model/epistemic_haz_curves_folded
-.png, id=270, 383.031pt x 192.72pt>
+.png, id=274, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/full_model/epistemic_haz_curves_f
 olded.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/full_model/epistemic_haz_curves_fo
 lded.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/full_model/epi
-stemic_haz_curves_folded.png  used on input line 651.
+stemic_haz_curves_folded.png  used on input line 656.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 
-LaTeX Warning: Float too large for page by 1.35976pt on input line 654.
+LaTeX Warning: Float too large for page by 1.35976pt on input line 659.
 
 <../../4_plotting/figures/kumamoto_case2/full_model/source_contributions_left.p
-ng, id=271, 383.031pt x 192.72pt>
+ng, id=275, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/full_model/source_contributions_l
 eft.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/full_model/source_contributions_le
 ft.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/full_model/sou
-rce_contributions_left.png  used on input line 658.
+rce_contributions_left.png  used on input line 663.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 <../../4_plotting/figures/kumamoto_case2/full_model/source_contributions_right.
-png, id=272, 383.031pt x 192.72pt>
+png, id=276, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/full_model/source_contributions_r
 ight.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/full_model/source_contributions_ri
 ght.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/full_model/sou
-rce_contributions_right.png  used on input line 658.
+rce_contributions_right.png  used on input line 663.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 <../../4_plotting/figures/kumamoto_case2/full_model/source_contributions_folded
-.png, id=273, 383.031pt x 192.72pt>
+.png, id=277, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/full_model/source_contributions_f
 olded.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/full_model/source_contributions_fo
 lded.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/full_model/sou
-rce_contributions_folded.png  used on input line 658.
+rce_contributions_folded.png  used on input line 663.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 
-LaTeX Warning: Float too large for page by 1.35976pt on input line 661.
+LaTeX Warning: Float too large for page by 1.35976pt on input line 666.
 
 <../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare_FDMs_left
-.png, id=274, 383.031pt x 192.72pt>
+.png, id=278, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare_FDMs
 _left.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare_FDMs_
 left.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/epistemic_haz_
-curves_compare_FDMs_left.png  used on input line 665.
+curves_compare_FDMs_left.png  used on input line 670.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 <../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare_FDMs_righ
-t.png, id=275, 383.031pt x 192.72pt>
+t.png, id=279, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare_FDMs
 _right.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare_FDMs_
 right.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/epistemic_haz_
-curves_compare_FDMs_right.png  used on input line 665.
+curves_compare_FDMs_right.png  used on input line 670.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 <../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare_FDMs_fold
-ed.png, id=276, 383.031pt x 192.72pt>
+ed.png, id=280, 383.031pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare_FDMs
 _folded.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare_FDMs_
 folded.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case2/epistemic_haz_
-curves_compare_FDMs_folded.png  used on input line 665.
+curves_compare_FDMs_folded.png  used on input line 670.
 (pdftex.def)             Requested size: 375.82953pt x 189.0966pt.
 
-LaTeX Warning: Float too large for page by 1.35976pt on input line 668.
+LaTeX Warning: Float too large for page by 1.35976pt on input line 673.
 
-[18] [19 <../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curv
+[19] [20 <../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_curv
 es_left.png> <../../4_plotting/figures/kumamoto_case2/mean_model/epistemic_haz_
 curves_right.png> <../../4_plotting/figures/kumamoto_case2/mean_model/epistemic
-_haz_curves_folded.png>] [20 <../../4_plotting/figures/kumamoto_case2/mean_mode
+_haz_curves_folded.png>] [21 <../../4_plotting/figures/kumamoto_case2/mean_mode
 l/source_contributions_left.png> <../../4_plotting/figures/kumamoto_case2/mean_
 model/source_contributions_right.png> <../../4_plotting/figures/kumamoto_case2/
-mean_model/source_contributions_folded.png>] [21 <../../4_plotting/figures/kuma
+mean_model/source_contributions_folded.png>] [22 <../../4_plotting/figures/kuma
 moto_case2/full_model/epistemic_haz_curves_left.png> <../../4_plotting/figures/
 kumamoto_case2/full_model/epistemic_haz_curves_right.png> <../../4_plotting/fig
-ures/kumamoto_case2/full_model/epistemic_haz_curves_folded.png>] [22 <../../4_p
+ures/kumamoto_case2/full_model/epistemic_haz_curves_folded.png>] [23 <../../4_p
 lotting/figures/kumamoto_case2/full_model/source_contributions_left.png> <../..
 /4_plotting/figures/kumamoto_case2/full_model/source_contributions_right.png> <
 ../../4_plotting/figures/kumamoto_case2/full_model/source_contributions_folded.
-png>] [23 <../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare
+png>] [24 <../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_compare
 _FDMs_left.png> <../../4_plotting/figures/kumamoto_case2/epistemic_haz_curves_c
 ompare_FDMs_right.png> <../../4_plotting/figures/kumamoto_case2/epistemic_haz_c
 urves_compare_FDMs_folded.png>]
-<../figures/logic_trees/kumamoto_case3.jpg, id=333, 1065.22969pt x 286.82156pt>
+<../figures/logic_trees/kumamoto_case3.jpg, id=340, 1065.22969pt x 286.82156pt>
 
 File: ../figures/logic_trees/kumamoto_case3.jpg Graphic file (type jpg)
 <use ../figures/logic_trees/kumamoto_case3.jpg>
 Package pdftex.def Info: ../figures/logic_trees/kumamoto_case3.jpg  used on inp
-ut line 680.
+ut line 692.
 (pdftex.def)             Requested size: 469.74278pt x 126.48196pt.
 <../../4_plotting/figures/kumamoto_case3/mean_model/epistemic_haz_curves_left.p
-ng, id=337, 387.1263pt x 192.72pt>
+ng, id=341, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case3/mean_model/epistemic_haz_curves_l
 eft.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case3/mean_model/epistemic_haz_curves_le
 ft.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case3/mean_model/epi
-stemic_haz_curves_left.png  used on input line 696.
+stemic_haz_curves_left.png  used on input line 701.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/kumamoto_case3/mean_model/epistemic_haz_curves_right.
-png, id=338, 387.1263pt x 192.72pt>
+png, id=342, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case3/mean_model/epistemic_haz_curves_r
 ight.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case3/mean_model/epistemic_haz_curves_ri
 ght.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case3/mean_model/epi
-stemic_haz_curves_right.png  used on input line 696.
+stemic_haz_curves_right.png  used on input line 701.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/kumamoto_case3/mean_model/epistemic_haz_curves_folded
-.png, id=339, 387.1263pt x 192.72pt>
+.png, id=343, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case3/mean_model/epistemic_haz_curves_f
 olded.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case3/mean_model/epistemic_haz_curves_fo
 lded.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case3/mean_model/epi
-stemic_haz_curves_folded.png  used on input line 696.
+stemic_haz_curves_folded.png  used on input line 701.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_left.p
-ng, id=340, 387.1263pt x 192.72pt>
+ng, id=344, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_l
 eft.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_le
 ft.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case3/full_model/epi
-stemic_haz_curves_left.png  used on input line 703.
+stemic_haz_curves_left.png  used on input line 708.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_right.
-png, id=341, 387.1263pt x 192.72pt>
+png, id=345, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_r
 ight.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_ri
 ght.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case3/full_model/epi
-stemic_haz_curves_right.png  used on input line 703.
+stemic_haz_curves_right.png  used on input line 708.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_folded
-.png, id=342, 387.1263pt x 192.72pt>
+.png, id=346, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_f
 olded.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_fo
 lded.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case3/full_model/epi
-stemic_haz_curves_folded.png  used on input line 703.
+stemic_haz_curves_folded.png  used on input line 708.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_compare_FDMs_left
-.png, id=343, 387.1263pt x 192.72pt>
+.png, id=347, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_compare_FDMs
 _left.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_compare_FDMs_
 left.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case3/epistemic_haz_
-curves_compare_FDMs_left.png  used on input line 710.
+curves_compare_FDMs_left.png  used on input line 715.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_compare_FDMs_righ
-t.png, id=344, 387.1263pt x 192.72pt>
+t.png, id=348, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_compare_FDMs
 _right.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_compare_FDMs_
 right.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case3/epistemic_haz_
-curves_compare_FDMs_right.png  used on input line 710.
+curves_compare_FDMs_right.png  used on input line 715.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
 <../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_compare_FDMs_fold
-ed.png, id=345, 387.1263pt x 192.72pt>
+ed.png, id=349, 387.1263pt x 192.72pt>
 File: ../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_compare_FDMs
 _folded.png Graphic file (type png)
 <use ../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_compare_FDMs_
 folded.png>
 Package pdftex.def Info: ../../4_plotting/figures/kumamoto_case3/epistemic_haz_
-curves_compare_FDMs_folded.png  used on input line 710.
+curves_compare_FDMs_folded.png  used on input line 715.
 (pdftex.def)             Requested size: 375.8015pt x 187.08224pt.
-[24 <../figures/logic_trees/kumamoto_case3.jpg>] [25 <../../4_plotting/figures/
+[25 <../figures/logic_trees/kumamoto_case3.jpg>] [26 <../../4_plotting/figures/
 kumamoto_case3/mean_model/epistemic_haz_curves_left.png> <../../4_plotting/figu
 res/kumamoto_case3/mean_model/epistemic_haz_curves_right.png> <../../4_plotting
-/figures/kumamoto_case3/mean_model/epistemic_haz_curves_folded.png>] [26 <../..
+/figures/kumamoto_case3/mean_model/epistemic_haz_curves_folded.png>] [27 <../..
 /4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_left.png> <.
 ./../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_right.pn
 g> <../../4_plotting/figures/kumamoto_case3/full_model/epistemic_haz_curves_fol
-ded.png>] [27 <../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_com
+ded.png>] [28 <../../4_plotting/figures/kumamoto_case3/epistemic_haz_curves_com
 pare_FDMs_left.png> <../../4_plotting/figures/kumamoto_case3/epistemic_haz_curv
 es_compare_FDMs_right.png> <../../4_plotting/figures/kumamoto_case3/epistemic_h
 az_curves_compare_FDMs_folded.png>] (MAIN_REPORT.aux) ) 
 Here is how much of TeX's memory you used:
- 16924 strings out of 476334
- 316628 string characters out of 5787971
- 1927382 words of memory out of 5000000
+ 16925 strings out of 476334
+ 316635 string characters out of 5787971
+ 1918382 words of memory out of 5000000
  36766 multiletter control sequences out of 15000+600000
  584279 words of font info for 157 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,10n,81p,1010b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,10n,81p,1010b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/starb/AppData/
 Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/starb/AppData/
 Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/starb/AppData/Loca
@@ -1272,9 +1272,9 @@ eX/fonts/type1/public/lm/lmr8.pfb><C:/Users/starb/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/lm/lmsy6.pfb><C:/Users/starb/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/lm/lmsy7.pfb><C:/Users/starb/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/lm/lmsy8.pfb>
-Output written on MAIN_REPORT.pdf (27 pages, 7639611 bytes).
+Output written on MAIN_REPORT.pdf (28 pages, 7640256 bytes).
 PDF statistics:
- 539 PDF objects out of 1000 (max. 8388607)
- 139 named destinations out of 1000 (max. 500000)
+ 543 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
  41358 words of extra memory for PDF output out of 42996 (max. 10000000)
 

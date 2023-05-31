@@ -7,18 +7,17 @@ characterization for Sensitivity 1.
 The logic tree based on the information provided by the IAEA and as-implemented
 in the PFDA is shown on Figure \ref{fig:logic_N1}.
 
-
-```{r, fig.cap = "Norcia Sensitivity 1 logic tree. \\label{fig:logic_N1}", out.width = '100%', fig.align = "center"}
-include_graphics("../figures/logic_trees/norcia_case1.JPG")
-```
-
-
 The mean model results are shown on Figure \ref{fig:mean_model_N1}.
 
 The full model results are shown on Figure \ref{fig:full_model_N1}.
 
 A comparison of the mean model and full model results is shown on Figure 
 \ref{fig:compare_N1}.
+
+
+```{r, fig.cap = "Norcia Sensitivity 1 logic tree. \\label{fig:logic_N1}", out.width = '100%', fig.align = "center"}
+include_graphics("../figures/logic_trees/norcia_case1.JPG")
+```
 
 
    

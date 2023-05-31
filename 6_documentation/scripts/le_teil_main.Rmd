@@ -11,7 +11,7 @@ epistemic uncertainty in the seismic source characterization.
 ```{r child = 'le_teil_sensitivity2.Rmd'}
 ```
 
-\pagebreak
+\newpage
 ```{r child = 'le_teil_extra.Rmd'}
 ```
 

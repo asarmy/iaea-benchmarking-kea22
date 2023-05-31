@@ -18,13 +18,6 @@ calculation. The results are listed in Table \ref{tab:table}. The final
 earthquake rate for each advancement is computed from the rate of the Float 
 branch on Figure \ref{fig:logic_KM2}, multiplied by $P(rup)$. 
 
-```{r, fig.cap = "Kumamoto Sensitivity 2 logic tree (used with $r=0~km$ instead of $r=0.6~km$). \\label{fig:logic_KM2}", out.width = '100%', fig.align = "center"}
-include_graphics("../figures/logic_trees/kumamoto_case2.JPG")
-```
-
-```{r, fig.cap = "Kumamoto Sensitivity 2 floating earthquake explanation. \\label{fig:float}", out.width = '50%', fig.align = "center"}
-include_graphics("../figures/kumamoto2/kumamoto_floating_schematic.PNG")
-```
 
 
 The mean model results are shown on Figure \ref{fig:mean_model_KM2}.
@@ -45,7 +38,16 @@ The source contributions for the mean model are shown on Figure
 A comparison of the mean model and full model results is shown on Figure 
 \ref{fig:compare_KM2}.
 
+\newpage
+```{r, fig.cap = "Kumamoto Sensitivity 2 logic tree (used with $r=0~km$ instead of $r=0.6~km$). \\label{fig:logic_KM2}", out.width = '100%', fig.align = "center"}
+include_graphics("../figures/logic_trees/kumamoto_case2.JPG")
+```
 
+```{r, fig.cap = "Kumamoto Sensitivity 2 floating earthquake explanation. \\label{fig:float}", out.width = '50%', fig.align = "center"}
+include_graphics("../figures/kumamoto2/kumamoto_floating_schematic.PNG")
+```
+
+\newpage
 ```{r, message = FALSE}
 library(readxl)
 library(dplyr)
